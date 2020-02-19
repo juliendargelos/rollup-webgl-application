@@ -1,26 +1,23 @@
-# rollup-application
+# rollup-webgl-application
 
-[![build](https://github.com/juliendargelos/rollup-application/workflows/build/badge.svg?branch=master)](https://github.com/juliendargelos/rollup-application/actions?workflow=build)<!--
-[![deploy](https://github.com/juliendargelos/rollup-application/workflows/deploy/badge.svg?branch=master)](https://github.com/juliendargelos/rollup-application/actions?workflow=deploy) !-->
-[![version](https://img.shields.io/github/package-json/v/juliendargelos/rollup-application)](https://github.com/juliendargelos/rollup-application)
+[![build](https://github.com/juliendargelos/rollup-three-application/workflows/build/badge.svg?branch=master)](https://github.com/juliendargelos/rollup-three-application/actions?workflow=build)<!--
+[![deploy](https://github.com/juliendargelos/rollup-three-application/workflows/deploy/badge.svg?branch=master)](https://github.com/juliendargelos/rollup-three-application/actions?workflow=deploy) !-->
+[![version](https://img.shields.io/github/package-json/v/juliendargelos/rollup-three-application)](https://github.com/juliendargelos/rollup-three-application)
 
-Application template for rollup and typescript, powered by github actions. Dependencies always up to date thanks to [dependabot](https://dependabot.com).
-
-*See [rollup-library](https://github.com/juliendargelos/rollup-library) if you need a library template.*
+Application template for rollup, three and lit with typescript, powered by github actions. Dependencies always up to date thanks to [dependabot](https://dependabot.com).
 
 ### Usage
 
-Click on <sub>[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/juliendargelos/rollup-application/generate)</sub> then wait for the [initialize workflow](.github/workflows/initialize.yml) to complete. The package name and urls will be automatically replaced at initialization. You may want to change the author name in `package.json` and `LICENSE`.
+Click on <sub>[![Use this template](https://img.shields.io/badge/-Use%20this%20template-brightgreen)](https://github.com/juliendargelos/rollup-three-application/generate)</sub> then wait for the [initialize workflow](.github/workflows/initialize.yml) to complete. The package name and urls will be automatically replaced at initialization. You may want to change the author name in `package.json` and `LICENSE`.
 
 ### Features
 
 #### Bundling
 
 - Rollup, TypeScript and ESLint
-- IFFE bundle
+- IIFE bundle
 - Path alias from tsconfig.json synced with rollup
-- Development server with SSL and livereload
-- Views with EJS
+- Development server with Nollup and hot module reloading
 - Stylesheets with SASS including CSS reset and easing variables
 - Static files
 - Terser
