@@ -1,6 +1,6 @@
 // import 'ts-polyfill/es2015-collection'
 // import 'ts-polyfill/es2015-core'
-// import 'ts-polyfill/es2015-iterable'
+// import 'ts-polyfill/lib/es2015-iterable'
 // import 'ts-polyfill/es2015-promise'
 // import 'ts-polyfill/es2015-reflect'
 // import 'ts-polyfill/es2015-symbol-wellknown'
