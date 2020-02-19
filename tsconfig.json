@@ -18,8 +18,8 @@
     "moduleResolution": "node",
     "baseUrl": ".",
     "paths": {
-      "~/*": ["src/javascripts/*"]
+      "~/*": ["src/*"]
     }
   },
-  "include": ["src/javascripts"]
+  "include": ["src"]
 }

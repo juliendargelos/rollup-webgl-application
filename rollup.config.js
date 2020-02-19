@@ -20,7 +20,7 @@ const development = process.env.NOLLUP
 const production = !development
 
 export default {
-  input: `${src}/javascripts/index.ts`,
+  input: `${src}/index.ts`,
   output: {
     dir: dest,
     format: 'iife',
@@ -36,7 +36,7 @@ export default {
     }),
     nodeResolve(),
     commonjs(),
-    glslify({ basedir: `${src}/javascripts/webgl/shaders` }),
+    glslify({ basedir: `${src}/webgl/shaders` }),
     eslint(),
     ts(),
     cleaner({ targets: [dest] }),
