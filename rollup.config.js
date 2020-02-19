@@ -1,4 +1,3 @@
-import devcert from 'devcert'
 import autoprefixer from 'autoprefixer'
 import htmlMinifier from 'rollup-plugin-html-minifier'
 import nodeResolve from '@rollup/plugin-node-resolve'
