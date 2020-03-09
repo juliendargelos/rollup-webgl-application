@@ -32,7 +32,7 @@
     "eslint": "^6.8.0",
     "node-sass": "^4.13.1",
     "nollup": "^0.10.6",
-    "rollup": "^1.32.0",
+    "rollup": "^1.32.1",
     "rollup-plugin-cleaner": "^1.0.0",
     "rollup-plugin-eslint": "^6.0.0",
     "rollup-plugin-glslify": "^1.1.3",
