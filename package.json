@@ -13,7 +13,7 @@
     "dev": "nollup -c --hot --verbose --content-base static"
   },
   "dependencies": {
-    "@webcomponents/webcomponentsjs": "^2.4.2",
+    "@webcomponents/webcomponentsjs": "^2.4.3",
     "camera-controls": "^1.18.3",
     "css-easing": "^2.1.0",
     "lit-element": "^2.2.1",
