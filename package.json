@@ -28,7 +28,7 @@
     "@rollup/plugin-node-resolve": "^7.1.1",
     "@typescript-eslint/eslint-plugin": "^2.25.0",
     "@typescript-eslint/parser": "^2.24.0",
-    "autoprefixer": "^9.7.4",
+    "autoprefixer": "^9.7.5",
     "eslint": "^6.8.0",
     "node-sass": "^4.13.1",
     "nollup": "^0.10.6",
