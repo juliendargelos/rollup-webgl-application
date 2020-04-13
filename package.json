@@ -17,7 +17,7 @@
     "camera-controls": "^1.18.3",
     "css-easing": "^2.1.0",
     "lit-element": "^2.3.1",
-    "postprocessing": "^6.13.2",
+    "postprocessing": "^6.13.3",
     "reset-css": "^5.0.1",
     "three": "^0.113.2",
     "ts-polyfill": "^3.8.2"
