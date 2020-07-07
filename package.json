@@ -19,7 +19,7 @@
     "lit-element": "^2.3.1",
     "postprocessing": "^6.16.0",
     "reset-css": "^5.0.1",
-    "three": "^0.113.2",
+    "three": "^0.118.3",
     "ts-polyfill": "^3.8.2"
   },
   "devDependencies": {
